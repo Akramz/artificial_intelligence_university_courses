@@ -1,4 +1,4 @@
-# Machine Learning University Courses
+# Artificial Intelligence University Courses
 
 A curated list of free machine learning courses from top universities. All courses are available as video lectures in English. Besides the lectures, we list supporting materials such as reference books, assignments, exams, and papers.
 
